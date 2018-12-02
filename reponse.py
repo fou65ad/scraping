@@ -96,6 +96,6 @@ average_rating = nonfiction_books["rating"].mean()
 
 maximum_price = nonfiction_books["price"].max()
 
-orders = pd.read_csv("orders.csv")
+#orders = pd.read_csv("orders.csv")
 
-print (orders.info())
+#print (orders.info())
